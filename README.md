@@ -1,4 +1,5 @@
 # Better Extension Collection
+![hello](https://github.com/robotninjajesse/Better-Extension-Collection/blob/main/BECicon.png)  
 Find the website [here](http://robotninjajesse.github.io/Better-Extension-Collection)  
 The Better Extension Collection contains extensions for TurboWarp, Penguinmod, and some other Scratch mods and contains almost every extension ever uploaded, this way you never have to search through 20 different collections to find the one you need.
 
