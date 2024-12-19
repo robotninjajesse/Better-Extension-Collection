@@ -1,5 +1,5 @@
 # Hello World!
-this is converted from markdown to html and then displayed in an iframe
+this is converted from markdown to html and then displayed in an iframe.
 newline?  
 newline.
 ## smaller
